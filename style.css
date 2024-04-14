@@ -1,14 +1,6 @@
-body{
-    background-color: black;
-    color:white;
-}
-a{
-    text-decoration: none;
-    color: orange;
-}
-h1{
-    color: blue;
-}
-h2{
-    color:blue
+.newClass {
+    font.size: 50px;
+    background-color: pink;
+    font-style: italic;
+    text-decoration: double;
 }
